@@ -7,4 +7,5 @@
 
 ## Code Implementation
 
-The code for the project is located in the `main` branch.
+The code for the project is located in the `pytorch-ft-mt-llm.ipynb` Jupyter notebook file in the `main` branch. This notebook includes:
+
